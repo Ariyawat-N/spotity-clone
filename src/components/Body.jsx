@@ -84,7 +84,7 @@ export default function Body({ headerBackground }) {
     return minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
   };
 
-
+ 
  
   return (
     <Container headerBackground={headerBackground}>
