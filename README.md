@@ -32,6 +32,6 @@ Thank you for participating in the testing phase! We look forward to hearing you
 Happy testing! 🎵🚀
 
 ### Demo Picture 
-![Alt text](image-1.png)
-![Alt text](image-3.png)
+![Alt text](./src/assets/image-1.png)
+![Alt text](./src/assets/image-3.png)
 
