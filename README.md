@@ -2,6 +2,9 @@
 
 Welcome to the Spotify Clone project! We appreciate your interest in testing our web app. To get started, please follow the instructions below.
 
+## Live Demo
+- Explore the project live on [Spotify Project](https://spotify-clone-ariyawat.netlify.app/)
+
 ## Testing the Spotify Clone Web App
 
 ### Prerequisites
