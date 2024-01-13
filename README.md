@@ -27,3 +27,8 @@ If you encounter any issues, have feedback, or discover bugs during testing, ple
 Thank you for participating in the testing phase! We look forward to hearing your feedback.
 
 Happy testing! 🎵🚀
+
+### Demo Picture 
+![Alt text](image-1.png)
+![Alt text](image-3.png)
+
