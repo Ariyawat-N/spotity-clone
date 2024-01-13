@@ -12,11 +12,9 @@ Before you begin testing, make sure you have access to a web browser and an inte
 
 To access the Spotify Clone web app for testing purposes, we kindly ask you to provide us with your email address. Follow the steps below:
 
-1. Send an email to [your-email@example.com](mailto:your-email@example.com) with the subject "Spotify Clone Testing Request."
+1. Send your Spotify email to [ariyawat.nky@gmail.com](mailto:your-email@example.com) with the subject "Spotify Clone Testing Request."
 2. In the body of the email, please include the following information:
    - Your full name
-   - Any specific features or functionalities you would like to test or provide feedback on
-   - Any additional comments or suggestions you may have
 
 ### What Happens Next?
 
